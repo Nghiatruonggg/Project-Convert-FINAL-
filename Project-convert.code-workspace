@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Project-convert"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project-Convert-FINAL"
+	}
+}
